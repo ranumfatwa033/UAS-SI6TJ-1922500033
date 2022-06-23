@@ -1,0 +1,4 @@
+#Thu Jun 23 19:44:48 ICT 2022
+base.0=D\:\\UASSI6TJ1922500033\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
